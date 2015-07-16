@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Gadgetbibliothek</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="InterdutionText">Willkommen zur HSR Gadget Bibliothek. Loggen Sie sich mit ihren Daten ein oder registrieren Sie sich neu</string>
+    <string name="Emaillabel">E-Mail</string>
+    <string name="Passwordlabel">Password</string>
+    <string name="loginbutton">Login</string>
+    <string name="registerbutton">Registrieren</string>
+    <string name="title_activity_register">RegisterActivity</string>
+    <string name="RegisterIntroduction">Geben Sie ihre Daten ein um einen neuen Account zu registrieren</string>
+    <string name="namelabel">Name</string>
+    <string name="Matrikelnummerlabel">Matrikel Nummer</string>
+    <string name="title_activity_main_view">MainViewActivity</string>
+    <string name="MainViewIntroduction">Ihre Aktuellen Ausleihen</string>
+    <string name="Reservations">Ihre aktuellen Reservationen</string>
+    <string name="deleteReservation">Reservation lschen</string>
+    <string name="Logout">Logout</string>
+    <string name="reserve">Reservieren</string>
+    <string name="title_activity_reservation">ReservationActivity</string>
+    <string name="reserveselected">Selektierte Reservieren</string>
+
+</resources>
